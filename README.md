@@ -1,17 +1,15 @@
 Developed in Microsoft Visual Studio
+# Simple particle simulation created in C++ and SFML.
 
-**Simple particle simulation created in C++ and SFML.**
------------------------------
-Features:
------------------------------
+# Features:
+
 FPS Counter
 
 Total Time Elapsed Counter
 
 Object Counter
 
-Controls:
--------------------------------
+# Controls:
 
 Escape: Exit the program
 
